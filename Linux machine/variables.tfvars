@@ -1,0 +1,8 @@
+subscriptionid = "2db08813-c1e2-488a-b4eb-c7670a73bc30"
+clientid = "ed9e54a1-de93-476e-99bc-d9277e7e791b"
+clientsecret = "_-ehqN9n-qbFoLtsllxvP0BV8-x62NFf56"
+tenantid = "61fae385-30ac-48e3-a1a8-2c1062c8d8c9"
+location = "Central US"
+prefix = "practice"
+username = "ubuntu"
+password = "Devops@12345"
